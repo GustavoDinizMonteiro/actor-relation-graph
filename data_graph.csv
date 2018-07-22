@@ -1,4 +1,4 @@
-Source,Target,Weight
+Source,Target,Weigth
 Brigitte Bardot,Brigitte Bardot,4
 Doris Day,Doris Day,4
 Olivia de Havilland,Olivia de Havilland,4
@@ -35,7 +35,6 @@ Pierce Brosnan,Pierce Brosnan,4
 Pierce Brosnan,Colin Firth,1
 Pierce Brosnan,Teri Hatcher,1
 Sandra Bullock,Sandra Bullock,4
-Sandra Bullock,Keanu Reeves,1
 Steve Buscemi,Steve Buscemi,4
 Nicolas Cage,Nicolas Cage,4
 Nicolas Cage,Sean Connery,1
@@ -55,6 +54,8 @@ Russell Crowe,Jennifer Connelly,1
 Russell Crowe,Russell Crowe,4
 Russell Crowe,Ron Howard,1
 Tom Cruise,Tom Cruise,4
+Tom Cruise,Kelly McGillis,1
+Tom Cruise,Renée Zellweger,1
 Jamie Lee Curtis,John Cleese,1
 Jamie Lee Curtis,Tia Carrere,1
 Jamie Lee Curtis,Jamie Lee Curtis,4
@@ -82,15 +83,19 @@ Ralph Fiennes,Ralph Fiennes,4
 Ralph Fiennes,Jeff Goldblum,1
 Colin Firth,Pierce Brosnan,1
 Colin Firth,Colin Firth,4
+Colin Firth,Renée Zellweger,1
 Harrison Ford,Harrison Ford,4
 Harrison Ford,Tommy Lee Jones,1
+Harrison Ford,Kelly McGillis,1
 Jodie Foster,Robert De Niro,1
 Jodie Foster,Jodie Foster,4
 Jodie Foster,Anthony Hopkins,1
+Jodie Foster,Kelly McGillis,1
 Michael J. Fox,Michael J. Fox,4
 Morgan Freeman,Clint Eastwood,1
 Morgan Freeman,Morgan Freeman,4
 Richard Gere,Richard Gere,4
+Richard Gere,Renée Zellweger,1
 Gina Gershon,Gina Gershon,4
 Mel Gibson,Mel Gibson,4
 Whoopi Goldberg,Whoopi Goldberg,4
@@ -121,10 +126,17 @@ Tommy Lee Jones,Harrison Ford,1
 Tommy Lee Jones,Tommy Lee Jones,4
 Nicole Kidman,Claire Danes,1
 Nicole Kidman,Nicole Kidman,4
+Nicole Kidman,Renée Zellweger,1
 Jack Nicholson,Leonardo DiCaprio,1
 Jack Nicholson,Helen Hunt,1
 Jack Nicholson,Jack Nicholson,4
 Al Pacino,Al Pacino,4
-Michelle Pfeiffer,Michelle Pfeiffer,4
-Keanu Reeves,Sandra Bullock,1
-Keanu Reeves,Keanu Reeves,4
+Kelly McGillis,Tom Cruise,1
+Kelly McGillis,Harrison Ford,1
+Kelly McGillis,Jodie Foster,1
+Kelly McGillis,Kelly McGillis,4
+Renée Zellweger,Tom Cruise,1
+Renée Zellweger,Colin Firth,1
+Renée Zellweger,Richard Gere,1
+Renée Zellweger,Nicole Kidman,1
+Renée Zellweger,Renée Zellweger,4
